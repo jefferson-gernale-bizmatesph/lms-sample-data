@@ -233,32 +233,6 @@
                 "department_name": "人事部"
             },
             "purchase_order_number": "00000001"
-        },
-        {
-            "before_student": {
-                "before_student_id": "S00010001000",
-                "before_student_name_jp": "田中 太郎",
-                "before_student_name_en": "Taro Tanaka",
-                "before_student_course_end_date": "2022-10-05"
-            },
-            "after_student": {
-                "after_student_id": "S00010001000",
-                "after_student_name_jp": "サントス ジャスミン",
-                "after_student_name_en": "Jasmine Santos",
-                "after_student_course_start_date": "2022-10-05"
-            },
-            "registration_details": {
-                "registration_date": "2022-10-03",
-                "registered_by_jp": "鈴木 二郎",
-                "registered_by_en": "Jiro Suzuki"
-            },
-            "company_details": {
-                "id": "C00010001000",
-                "company_name": "ビズメイツ株式会社",
-                "department_id": "D00010001000",
-                "department_name": "人事部"
-            },
-            "purchase_order_number": "00000002"
         }
     ]
 }

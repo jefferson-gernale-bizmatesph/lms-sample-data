@@ -285,32 +285,6 @@
                 "department_name": "人事部"
             },
             "purchase_order_number": "00000003"
-        },
-        {
-            "before_student": {
-                "before_student_id": "S00010001004",
-                "before_student_name_jp": "アンダーソン 慎一郎",
-                "before_student_name_en": "Shinichiro Anderson",
-                "before_student_course_end_date": "2022-09-30"
-            },
-            "after_student": {
-                "after_student_id": "S99998888774",
-                "after_student_name_jp": "仮受講生",
-                "after_student_name_en": "Temporary",
-                "after_student_course_start_date": "2022-10-01"
-            },
-            "registration_details": {
-                "registration_date": "2022-09-20",
-                "registered_by_jp": "鈴木 二郎",
-                "registered_by_en": "Jiro Suzuki"
-            },
-            "company_details": {
-                "id": "C00010001004",
-                "company_name": "ビズメイツ株式会社",
-                "department_id": "D00010001004",
-                "department_name": "人事部"
-            },
-            "purchase_order_number": "00000004"
         }
     ]
 }

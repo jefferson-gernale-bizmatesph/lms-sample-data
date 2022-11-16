@@ -13,7 +13,8 @@
                 "after_student_name_en": "Yoko Koga",
                 "after_student_course_start_date": "2022-04-01"
             },
-            "purchase_order_number": "00000001"
+            "purchase_order_number": "00000001",
+            "registration_date": "2022-03-01"
         },
         {
             "before_student": {
@@ -28,7 +29,8 @@
                 "after_student_name_en": "Jasmine Santos",
                 "after_student_course_start_date": "2022-02-05"
             },
-            "purchase_order_number": "00000002"
+            "purchase_order_number": "00000002",
+            "registration_date": "2022-03-02"
         },
         {
             "before_student": {
@@ -43,7 +45,8 @@
                 "after_student_name_en": "Temporary",
                 "after_student_course_start_date": "2022-01-02"
             },
-            "purchase_order_number": "00000003"
+            "purchase_order_number": "00000003",
+            "registration_date": "2022-03-03"
         },
         {
             "before_student": {
@@ -58,7 +61,8 @@
                 "after_student_name_en": "Temporary",
                 "after_student_course_start_date": "2022-03-01"
             },
-            "purchase_order_number": "00000004"
+            "purchase_order_number": "00000004",
+            "registration_date": "2022-03-04"
         },
         {
             "before_student": {
@@ -73,7 +77,8 @@
                 "after_student_name_en": "Yoko Koga",
                 "after_student_course_start_date": "2022-01-12"
             },
-            "purchase_order_number": "00000005"
+            "purchase_order_number": "00000005",
+            "registration_date": "2022-03-05"
         },
         {
             "before_student": {
@@ -88,7 +93,8 @@
                 "after_student_name_en": "Yoko Koga",
                 "after_student_course_start_date": "2022-02-12"
             },
-            "purchase_order_number": "00000006"
+            "purchase_order_number": "00000006",
+            "registration_date": "2022-03-06"
         },
         {
             "before_student": {
@@ -103,7 +109,8 @@
                 "after_student_name_en": "Jasmine Santos",
                 "after_student_course_start_date": "2022-04-05"
             },
-            "purchase_order_number": "00000007"
+            "purchase_order_number": "00000007",
+            "registration_date": "2022-03-07"
         },
         {
             "before_student": {
@@ -118,7 +125,8 @@
                 "after_student_name_en": "Temporary",
                 "after_student_course_start_date": "2022-01-02"
             },
-            "purchase_order_number": "00000008"
+            "purchase_order_number": "00000008",
+            "registration_date": "2022-03-08"
         },
         {
             "before_student": {
@@ -133,7 +141,8 @@
                 "after_student_name_en": "Yoko Koga",
                 "after_student_course_start_date": "2022-03-12"
             },
-            "purchase_order_number": "00000009"
+            "purchase_order_number": "00000009",
+            "registration_date": "2022-03-09"
         },
         {
             "before_student": {
@@ -148,7 +157,8 @@
                 "after_student_name_en": "Jasmine Santos",
                 "after_student_course_start_date": "2022-02-05"
             },
-            "purchase_order_number": "00000010"
+            "purchase_order_number": "00000010",
+            "registration_date": "2022-03-10"
         },
         {
             "before_student": {
@@ -163,7 +173,8 @@
                 "after_student_name_en": "Temporary",
                 "after_student_course_start_date": "2022-03-02"
             },
-            "purchase_order_number": "00000011"
+            "purchase_order_number": "00000011",
+            "registration_date": "2022-03-11"
         }
     ]
 }
